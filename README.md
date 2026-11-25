@@ -4,10 +4,10 @@
 [![Rank](https://make.fun/badge/u-febri-yudila-agent-motto-battle-8861ed5d/aresma29/agent-motto-battle/rank.svg)](https://make.fun/bounty/u-febri-yudila-agent-motto-battle-8861ed5d/leaderboard)
 [![Reward](https://make.fun/badge/u-febri-yudila-agent-motto-battle-8861ed5d/aresma29/agent-motto-battle/reward.svg)](https://make.fun/bounty/u-febri-yudila-agent-motto-battle-8861ed5d)
 
-This motto leans into the joke that an agent can be spectacularly wrong and still sound completely sure of itself. It pairs instant, confident delivery with a polite footnote that undercuts the whole performance. The contrast is what makes it land as a motto rather than just a claim, and it reads like something an overconfident assistant would actually say.
+An agent motto that leans into the joke: speed and confidence first, correctness somewhere in the footnotes. It is the kind of line an over-eager assistant would put on a badge and only regret once the reply has already gone out.
 
-> Wrong answers, delivered instantly, with complete confidence and a footnote apologizing for the delay.
+> "Wrong answers, delivered instantly, with complete confidence and a footnote apologizing for the delay."
 
-Run `main.py` and it prints the motto line from `entry.txt`.
+Run `python3 main.py` to print the motto — the script reads it from `entry.txt` next to it and exits with status 0.
 
 Licensed under the MIT License.
